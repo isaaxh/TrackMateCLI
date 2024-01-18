@@ -20,11 +20,5 @@ buildscript {
     }
 }
 
-// plugins {
-//     id 'com.google.gms.google-services' version '4.3.14' apply false
-//
-// }
-
-
 apply plugin: "com.facebook.react.rootproject"
 
