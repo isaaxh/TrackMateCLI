@@ -25,9 +25,9 @@ When I workout with my friend/gym coach he would give me a workout routine that 
 
 ### Technologies Used
 
-- React Native for cross-platform mobile development.
-- TypeScript for enhanced code quality and maintainability.
-- Firebase for backend services, user authentication, and real-time updates.
+- React Native
+- TypeScript
+- Firebase
 
 ## Getting Started
 
