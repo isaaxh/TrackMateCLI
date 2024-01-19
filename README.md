@@ -1,7 +1,7 @@
 # TrackMate - Your Ultimate Fitness Companion
 
 It is a comprehensive fitness app designed to be your ultimate workout companion. 
-When I workout with my friend/gym coach he would give me a workout routine that I needed to do for the day and he would change part of this routine every few days. I always forget the little changes, so I build this app to help me in my fitness journey and I added few features to increase the value the app provides. 
+When I workout with my friend/gym coach he would give me a workout routine that I need to do for the day and he would change part of this routine every few days. I always forget the little changes, so I build this app to help me in my fitness journey and I added few features to increase the value the app provides. 
 
 ## Overview
 ### Key Features:
