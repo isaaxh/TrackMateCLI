@@ -1,7 +1,10 @@
 # TrackMate - Your Ultimate Fitness Companion
 
-It is a comprehensive fitness app designed to be your ultimate workout companion. 
-When I workout with my friend/gym coach he would give me a workout routine that I need to do for the day and he would change part of this routine every few days. I always forget the little changes, so I build this app to help me in my fitness journey and I added few features to increase the value the app provides. 
+It is a comprehensive fitness app designed to be your ultimate workout companion. Helping you in tracking fitness goals, connecting and competing with your gym bros.  
+
+## Motivation
+
+When I workout with my friend/gym coach he would give me a workout routine that I need to do for the day and he would change part of this routine every few days. I always forget the little changes, so I build this app to help me in my fitness journey. Anyone can use this app to improve and motivate their fitness journey. 
 
 ## Overview
 ### Key Features
@@ -27,7 +30,7 @@ When I workout with my friend/gym coach he would give me a workout routine that 
 
 - React Native
 - TypeScript
-- Firebase
+- Firebase 
 
 ## Getting Started
 
@@ -74,3 +77,8 @@ yarn ios
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+
+
+### Quick Start
+### Usage
+### Contributaion 
